@@ -5,10 +5,6 @@
  */
 
 var genres = ["Hip Hop", "Ambient", "EDM", "Jazz", "Trap", "Soul"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);
